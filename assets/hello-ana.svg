@@ -9,8 +9,8 @@
       attributeName="transform"
       type="translate"
       from="0 0"
-      to="0 -8"
-      dur="2s"
+      to="0 -12"
+      dur="3s"
       repeatCount="indefinite"
       direction="alternate"/>
     
