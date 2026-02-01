@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=36BCF7&width=260&lines=Hi%2C+I%E2%80%99m+Ana+%F0%9F%A7%A0)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=36BCF7&width=260&lines=Hi%2C+I%E2%80%99m+Ana+%F0%9F%92%83)
  
 I'm a Mathematician & Computer Scientist currently working on formal models for decision-making in economics and on applied machine learning with experience in statistical modeling and evaluation.
 
