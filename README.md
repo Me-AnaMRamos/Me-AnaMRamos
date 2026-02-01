@@ -1,14 +1,14 @@
-Hi, I’m Ana 👋  
-Mathematician & Computer Scientist working on mathematical models of decision-making and on applied machine learning with experience in statistical modeling and evaluation.
+Hello, I’m Ana
+I'm a Mathematician & Computer Scientist currently working on formal models for decision-making in economics and on applied machine learning with experience in statistical modeling and evaluation.
 
-I am currently a Research Assistant at Harvard Business School, where I develop formal models and computational experiments to study how information, tasks, and technology are organized across agents. Alongside this theoretical work, I build and evaluate machine learning models, with particular attention to clean baselines, data assumptions, and metrics.
+I am currently a Research Assistant at Harvard Business School, where I develop formal models and computational experiments to study how knowledge, tasks, and technology are organized across agents. Alongside this theoretical work, I build and evaluate machine learning models, with particular attention to clean baselines, data assumptions, and metrics.
 
 ---
 
 ### 🔭 Current focus
 - Hierarchical models of task and knowledge allocation
 - The role of AI systems as decision or knowledge tools within organizations
-- Statistical modeling and evaluation for machine learning systems
+- Statistical and machine learning modeling and evaluation
 - Bridging formal theory with simulation and applied ML experiments
 
 <!--
@@ -17,7 +17,7 @@ I am currently a Research Assistant at Harvard Business School, where I develop 
 **Hierarchical Decision Models with AI-Augmented Agents**  
 Theoretical and computational research project studying how AI usage affects task allocation, incentives, and performance in hierarchical organizations.  
 - Multi-layer decision structures  
-- Endogenous information and effort choices  
+- Endogenous knowledge and training choices 
 - Simulation-based analysis of model behavior  
 -->
 
@@ -28,10 +28,11 @@ Applied ML project focused on modeling and evaluation for anomaly detection.
 - Reproducible experimental setup  
 → https://github.com/Me-AnaMRamos
 
-**Risk Classification & Model Benchmarking**  
-Comparative study of neural and classical models for structured prediction.  
-- Feature preparation and model comparison  
-- Statistical performance analysis across models  
+**Life Insurance Risk Assessment**  
+Comparative study of neural and classical models for life insurance risk prediction.  
+- Data preprocessing, feature preparation
+- Feature engineering and model training
+- Hyperparameter tuning and performance evaluation
 → https://github.com/Me-AnaMRamos
 
 ---
