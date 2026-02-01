@@ -8,7 +8,7 @@
       type="translate"
       from="0 0"
       to="0 -20"
-      dur="2s"
+      dur="2.5s"
       repeatCount="indefinite"
       direction="alternate"/>
 
