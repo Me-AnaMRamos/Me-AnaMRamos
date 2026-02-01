@@ -1,0 +1,62 @@
+<svg width="400" height="120" viewBox="0 0 400 120"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Floating animation -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="0 -20"
+      dur="2s"
+      repeatCount="indefinite"
+      direction="alternate"/>
+
+    <text x="50" y="80"
+          font-family="Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="32"
+          font-weight="600"
+          fill="#3b0764">
+
+      <!-- H e l l o -->
+      <tspan opacity="0">H
+        <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0s" fill="freeze"/>
+      </tspan>
+      <tspan opacity="0">e
+        <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.15s" fill="freeze"/>
+      </tspan>
+      <tspan opacity="0">l
+        <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.30s" fill="freeze"/>
+      </tspan>
+      <tspan opacity="0">l
+        <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.45s" fill="freeze"/>
+      </tspan>
+      <tspan opacity="0">o
+        <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.60s" fill="freeze"/>
+      </tspan>
+
+      <!-- comma + space -->
+      <tspan opacity="0">, 
+        <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="0.8s" fill="freeze"/>
+      </tspan>
+
+      <!-- I'm Ana -->
+      <tspan opacity="0">I'm Ana
+        <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
+      </tspan>
+
+      <!-- space -->
+      <tspan> </tspan>
+
+      <!-- Emojis -->
+      <tspan opacity="0">👩‍💻
+        <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.4s" fill="freeze"/>
+      </tspan>
+      <tspan opacity="0">🦑
+        <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
+      </tspan>
+
+    </text>
+  </g>
+
+</svg>
