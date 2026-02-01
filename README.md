@@ -1,5 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=36BCF7&width=260&lines=Hi%2C+I%E2%80%99m+Ana)
- 
+<p align="center">
+  <img src="assets/hello-ana.svg" alt="Hello banner">
+</p> 
 I'm a Mathematician & Computer Scientist currently working on formal models for decision-making in economics and on applied machine learning with experience in statistical modeling and evaluation.
 
 I am currently a Research Assistant at Harvard Business School, where I develop formal models and computational experiments to study how knowledge, tasks, and technology are organized across agents. Alongside this theoretical work, I build and evaluate machine learning models, with particular attention to hyperparameter tuning, clean baselines, data assumptions, and evaluation metrics.
