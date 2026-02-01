@@ -6,8 +6,8 @@
     <animateTransform
       attributeName="transform"
       type="translate"
-      from="0 0"
-      to="0 -30"
+      from="0 10"
+      to="0 -20"
       dur="3s"
       repeatCount="indefinite"
       direction="alternate"/>
