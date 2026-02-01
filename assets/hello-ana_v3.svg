@@ -6,7 +6,7 @@
     <animateTransform
       attributeName="transform"
       type="translate"
-      from="0 10"
+      from="0 20"
       to="0 -20"
       dur="3s"
       repeatCount="indefinite"
@@ -46,7 +46,7 @@
 
         <!-- I'm Ana -->
         <tspan opacity="0">I'm Ana
-          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze"/>
         </tspan>
 
         <tspan> </tspan>
