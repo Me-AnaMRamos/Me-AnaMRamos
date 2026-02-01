@@ -15,7 +15,7 @@
     Hello, I'm Ana
   </text>
   <!-- Squid emoji -->
-  <text x="420" y="80"
+  <text x="410" y="80"
         font-size="45"
         dominant-baseline="middle">
     🦑
