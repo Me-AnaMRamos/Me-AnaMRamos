@@ -14,7 +14,7 @@
       repeatCount="indefinite"
       direction="alternate"/>
     
-    <text x="50" y="90"
+    <text x="50" y="100"
           font-family="Segoe UI, Helvetica, Arial, sans-serif"
           font-size="32" 
           font-weight="600"
