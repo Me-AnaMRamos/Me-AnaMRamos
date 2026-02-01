@@ -21,22 +21,22 @@
       <tspan font-size="26">
 
         <tspan opacity="0">H
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.2s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.1s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">e
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.60s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.3s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">l
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">l
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.4s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">o
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.8s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">,
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.2s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze"/>
         </tspan>
 
       </tspan>
