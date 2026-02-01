@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello-ana.svg" alt="Hello banner">
+  <img src="assets/hello-ana_v3.svg" alt="Hello banner">
 </p> 
 I'm a Mathematician & Computer Scientist currently working on formal models for decision-making in economics and on applied machine learning with experience in statistical modeling and evaluation.
 
