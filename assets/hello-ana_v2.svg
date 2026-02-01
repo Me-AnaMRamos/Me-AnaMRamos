@@ -1,7 +1,7 @@
-<svg width="480" height="120" viewBox="0 0 480 120"
+<svg width="520" height="120" viewBox="0 0 520 120"
      xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="480" height="120" rx="18" fill="#f9fafb"/>
+  <rect width="520" height="120" rx="18" fill="#f9fafb"/>
 
   <text x="40" y="70"
         font-family="Segoe UI, Helvetica, Arial, sans-serif"
@@ -15,16 +15,29 @@
     <tspan opacity="0">l<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.08s" fill="freeze"/></tspan>
     <tspan opacity="0">o<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.08s" fill="freeze"/></tspan>
     <tspan opacity="0">,<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.08s" fill="freeze"/></tspan>
-    <tspan> </tspan>
+
+    <tspan dx="6"> </tspan>
+
     <tspan opacity="0">I<animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.08s" fill="freeze"/></tspan>
     <tspan opacity="0">'<animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.08s" fill="freeze"/></tspan>
     <tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.08s" fill="freeze"/></tspan>
-    <tspan> </tspan>
+
+    <!-- EXTRA SPACE BEFORE Ana -->
+    <tspan dx="14"> </tspan>
+
     <tspan opacity="0">A<animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.08s" fill="freeze"/></tspan>
     <tspan opacity="0">n<animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.08s" fill="freeze"/></tspan>
     <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.08s" fill="freeze"/></tspan>
-    <tspan> </tspan>
+
+    <tspan dx="12"> </tspan>
+
+    <!-- Squid -->
     <tspan opacity="0">🦑<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.2s" fill="freeze"/></tspan>
+
+    <tspan dx="8"> </tspan>
+
+    <!-- Scientist -->
+    <tspan opacity="0">👩‍💻<animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.25s" fill="freeze"/></tspan>
 
   </text>
 
