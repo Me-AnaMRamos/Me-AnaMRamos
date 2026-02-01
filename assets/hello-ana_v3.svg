@@ -24,19 +24,19 @@
           <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">e
-          <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.15s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.20s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">l
-          <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.30s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.40s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">l
-          <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.45s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.60s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">o
-          <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.60s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.80s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">,
-          <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="0.75s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1s" fill="freeze"/>
         </tspan>
 
       </tspan>
@@ -46,17 +46,17 @@
 
         <!-- I'm Ana -->
         <tspan opacity="0">I'm Ana
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.3s" fill="freeze"/>
         </tspan>
 
         <tspan> </tspan>
 
         <!-- Emojis -->
         <tspan opacity="0">👩‍💻
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.4s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.6s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">🦑
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.9s" fill="freeze"/>
         </tspan>
 
       </tspan>
