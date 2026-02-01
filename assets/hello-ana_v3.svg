@@ -8,7 +8,7 @@
       type="translate"
       from="0 25"
       to="0 -20"
-      dur="4s"
+      dur="3.5s"
       repeatCount="indefinite"
       direction="alternate"/>
 
@@ -46,17 +46,17 @@
 
         <!-- I'm Ana -->
         <tspan opacity="0">I'm Ana
-          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.8s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
         </tspan>
 
         <tspan> </tspan>
 
         <!-- Emojis -->
         <tspan opacity="0">👩‍💻
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.2s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.7s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">🦑
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.6s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3s" fill="freeze"/>
         </tspan>
 
       </tspan>
