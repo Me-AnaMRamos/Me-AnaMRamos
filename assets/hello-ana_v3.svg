@@ -35,6 +35,9 @@
         <tspan opacity="0">o
           <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.60s" fill="freeze"/>
         </tspan>
+        <tspan opacity="0">,
+          <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="0.75s" fill="freeze"/>
+        </tspan>
 
       </tspan>
 
