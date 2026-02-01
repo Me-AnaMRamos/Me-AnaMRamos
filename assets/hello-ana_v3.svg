@@ -8,7 +8,7 @@
       type="translate"
       from="0 20"
       to="0 -20"
-      dur="4s"
+      dur="5s"
       repeatCount="indefinite"
       direction="alternate"/>
 
@@ -21,22 +21,22 @@
       <tspan font-size="26">
 
         <tspan opacity="0">H
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.2s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">e
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.20s" fill="freeze"/>
-        </tspan>
-        <tspan opacity="0">l
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.40s" fill="freeze"/>
-        </tspan>
-        <tspan opacity="0">l
           <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.60s" fill="freeze"/>
         </tspan>
+        <tspan opacity="0">l
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">l
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.4s" fill="freeze"/>
+        </tspan>
         <tspan opacity="0">o
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.80s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.8s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">,
-          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.2s" fill="freeze"/>
         </tspan>
 
       </tspan>
@@ -46,17 +46,17 @@
 
         <!-- I'm Ana -->
         <tspan opacity="0">I'm Ana
-          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.8s" fill="freeze"/>
         </tspan>
 
         <tspan> </tspan>
 
         <!-- Emojis -->
         <tspan opacity="0">👩‍💻
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.2s" fill="freeze"/>
         </tspan>
         <tspan opacity="0">🦑
-          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.3s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.6s" fill="freeze"/>
         </tspan>
 
       </tspan>
