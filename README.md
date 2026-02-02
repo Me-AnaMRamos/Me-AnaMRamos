@@ -15,14 +15,13 @@ I am currently a Research Assistant at Harvard Business School, where I develop 
 - Bridging formal theory with simulation and applied ML experiments
 
 <!--
-### 📌 Selected projects
-
 **Hierarchical Decision Models with AI-Augmented Agents**  
 Theoretical and computational research project studying how AI usage affects task allocation, incentives, and performance in hierarchical organizations.  
 - Multi-layer decision structures  
 - Endogenous knowledge and training choices 
 - Simulation-based analysis of model behavior  
 -->
+### 📌 Selected projects
 
 **Image-Based Defect Detection**  
 Applied ML project focused on modeling and evaluation for anomaly detection.  
