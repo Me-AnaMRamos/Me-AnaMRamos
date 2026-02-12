@@ -8,7 +8,7 @@ I am currently a Research Assistant at Harvard Business School, where I develop 
 
 ---
 
-### 🔭 Current focus
+### Current focus
 - Hierarchical models of task and knowledge allocation
 - The role of AI systems as decision or knowledge tools within organizations
 - Statistical and machine learning modeling and evaluation
