@@ -21,7 +21,7 @@ I am currently a **Research Assistant to Prof. Jorge Tamayo** (Harvard Business 
 **Structural Models of Firms: Knowledge Hierarchies, Delegation, AI & a Banking Application** · *with Prof. Jorge Tamayo (HBS), Prof. Achyuta Adhvaryu (UCSD) and Prof. Anant Nyshadham (Michigan)*
 Original structural models of how firms organize knowledge and decisions, how AI changes that organization, and an applied model built for a large bank.
 - **Knowledge hierarchies with AI:** a model with heterogeneous communication costs and a fixed workforce, showing how AI reshapes which layers grow and where it creates the most value
-- **Delegation:** a model that separates managerial skill from worker competence, and when it pays to add a layer rather than deepen an existing manager's skill
+- **Delegation:** a model that separates managerial skill from worker capacity, and when it pays to add a layer rather than deepen an existing manager's skill
 - **Davivienda project:** an applied structural model developed with Davivienda, one of Colombia's largest banks
 - Across all three models: derived closed-form equilibria and comparative statics, calibrated to real firm data, and evaluated on non-targeted outcomes and new data
 - Empirical work using personnel data from a large Colombian construction company: AKM two-way fixed-effects models, estimated on the connected worker mobility network, and staggered difference-in-differences designs
