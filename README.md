@@ -1,10 +1,10 @@
 <p align="center">
   <img src="assets/hello-ana_v3.svg" alt="Hello banner">
 </p> 
-I'm a Mathematician & Computer Scientist working on formal models for decision-making in economics and the role of artificial intelligence within them, with experience in statistical modeling and evaluation.
+I'm a Mathematician & Computer Scientist working on the development and evaluation of structural models for decision-making in economics and the role of artificial intelligence within them, with experience in statistical modeling and evaluation.
 
 
-I am currently a Research Assistant at Harvard Business School, where I develop formal models and computational experiments to study how knowledge, tasks, and technology are organized across agents. Alongside this theoretical work, I build and evaluate machine learning models, with particular attention to hyperparameter tuning, clean baselines, data assumptions, and evaluation metrics.
+I am currently a Research Assistant at Harvard Business School, where I develop structural models and computational experiments to study how knowledge, tasks, and technology are organized across agents. Alongside this theoretical work, I calibrate and test build and evaluate machine learning models, with particular attention to hyperparameter tuning, clean baselines, data assumptions, and evaluation metrics.
 
 ---
 
