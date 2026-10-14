@@ -2,7 +2,7 @@
   <img src="assets/hello-ana_v3.svg" alt="Hello banner">
 </p>
 
-I'm a Mathematician & Computer Scientist with research experience in building, calibrating and evaluating models: structural models of how organizations make decisions, causal inference, statistical, and machine-learning methods applied to large-scale firm-level data.
+I'm a Mathematician & Computer Scientist with research experience in building, calibrating and evaluating models: structural models of how organizations make decisions, and causal inference, statistical, and machine-learning methods applied to large-scale firm-level data.
 
 I am currently a **Research Assistant to Prof. Jorge Tamayo** (Harvard Business School), collaborating with Prof. Achyuta Adhvaryu (UC San Diego), Prof. Anant Nyshadham (University of Michigan), and doctoral candidate Julián Jiménez (Harvard Business School). I develop original structural models of how firms organize knowledge, labor and worker incentives, delegate decisions and adopt AI. I derive their equilibria, calibrate them to real firm data, and test them against outcomes and data they were not fitted to. Alongside the theory, I run the empirical side: data cleaning, regressions and causal designs such as AKM models and staggered difference-in-differences. Across my projects I follow coding and modeling practices that carry over to my ML work: clean baselines, honest validation, well-chosen metrics and documented assumptions.
 
