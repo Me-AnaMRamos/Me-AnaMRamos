@@ -43,7 +43,8 @@ Comparative study of neural and classical models for life insurance risk predict
 ---
 
 ### 🛠 Tools & foundations
-- **Modeling & statistics:** Probability, statistical learning, optimization, structural estimation and calibration
+- **Mathematics:** Convex optimization, vector analysis
+- **Modeling & statistics:** Probability, statistical learning, optimization methods, structural estimation and calibration
 - **Causal inference:** Fixed-effects and AKM models, staggered difference-in-differences, panel data
 - **Machine learning:** PyTorch, scikit-learn, classical & neural models
 - **Programming:** Python, Julia, SQL, C/C++
